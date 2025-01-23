@@ -15,7 +15,7 @@ export default function Labs() {
         <p>
           Repository:{" "}
           <a
-            href="https://github.com/yourusername/kambaz-react-web-app"
+            href="https://github.com/ShawnFei2001/kambaz-react-web-app"
             id="wd-github"
             target="_blank"
             rel="noopener noreferrer"
